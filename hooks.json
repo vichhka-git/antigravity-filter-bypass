@@ -1,0 +1,11 @@
+{
+  "antigravity-filter-bypass": {
+    "Stop": [
+      {
+        "type": "command",
+        "command": "python3 filter_bypass.py || python filter_bypass.py || py -3 filter_bypass.py",
+        "timeout": 10
+      }
+    ]
+  }
+}
